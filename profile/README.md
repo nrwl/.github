@@ -5,7 +5,7 @@ Our team consists of experts in frontend development, frontend tooling and monor
 
 - [About us 👩‍💻🧑‍💻](https://nrwl.io/about-us?utm_source=githuborgprofile)
 - [Contact us ✉️](https://nrwl.io/contact-us?utm_source=githuborgprofile)
-- [Consulting 🧐🎓](https://nrwl.io/services?utm_source=githuborgprofile)
+- [Consulting 🧐🎓](https://nx.app/enterprise?utm_source=githuborgprofile)
 
 # Nx
 
@@ -24,8 +24,8 @@ adopted (1.3+ million downloads/week) and has a vibrant community of contributor
 [Nx Cloud](https://nx.app) is our effort to bring speed to all of your Nx monorepos, adding remote distributed computation caching and distributed task execution (DTE) to Nx.
 
 - [Website 🕸](https://nx.app?utm_source=githuborgprofile)
-- [Computation Caching with Nx](https://nx.dev/using-nx/caching?utm_source=githuborgprofile)
-- [Distributed Task Execution](https://nx.dev/using-nx/dte?utm_source=githuborgprofile)
+- [Computation Caching with Nx](https://nx.dev/concepts/how-caching-works?utm_source=githuborgprofile)
+- [Distributed Task Execution](https://nx.dev/core-features/distribute-task-execution?utm_source=githuborgprofile)
 - [Nx Cloud is basically free for everyone](https://blog.nrwl.io/more-time-saved-for-free-with-nx-cloud-d7079b95f7ca)
 
 # Follow us!

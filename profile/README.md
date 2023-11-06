@@ -8,7 +8,7 @@ We are [the Nx team](https://nx.dev), a group of engineers committed to enhancin
 # Nx
 
 We ❤️ open source! And we are probably most known as the creators of [Nx](https://nx.dev), a smart, fast and extensible build system! Nx is widely 
-adopted (2.5+ million downloads/week) and has a vibrant community of contributors.
+adopted (4+ million downloads/week) and has a vibrant community of contributors.
 
 - [GitHub :octocat:](https://github.com/nrwl/nx?utm_source=githuborgprofile)
 - [Website 🕸](https://nx.dev/?utm_source=githuborgprofile)

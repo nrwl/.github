@@ -22,6 +22,7 @@ adopted (4+ million downloads/week) and has a vibrant community of contributors.
 [Nx Cloud](https://nx.app) is our effort to bring speed to all of your Nx monorepos, adding remote distributed computation caching and distributed task execution (DTE) to Nx.
 
 - [Website 🕸](https://nx.app?utm_source=githuborgprofile)
+- [AI-Powered Self-Healing CI](https://nx.dev/ci/features/self-healing-ci?utm_source=githuborgprofile)
 - [Computation Caching with Nx](https://nx.dev/concepts/how-caching-works?utm_source=githuborgprofile)
 - [Distributed Task Execution](https://nx.dev/core-features/distribute-task-execution?utm_source=githuborgprofile)
 

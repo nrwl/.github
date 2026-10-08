@@ -2,7 +2,7 @@
 
 We are [the Nx team](https://nx.dev), a group of engineers committed to enhancing the developer experience through top-notch tooling. Having collaborated with some of the world's leading companies, we understand the challenges faced by developers. Our mission? To address and eliminate those pain points."
 
-- [About us 👩‍💻🧑‍💻](https://nx.app/company?utm_source=githuborgprofile)
+- [About us 👩‍💻🧑‍💻](https://nx.dev/company?utm_source=githuborgprofile)
 - [Want help? Reach out 🧐🎓](https://nx.dev/contact?utm_source=githuborgprofile))
 
 # Nx

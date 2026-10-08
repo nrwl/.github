@@ -43,7 +43,7 @@ We took [over stewardship of Lerna in May 2022](https://blog.nrwl.io/lerna-is-de
 # Follow us!
 
 - [ ] [Star our Nx repo :octocat: :star:](https://github.com/nrwl/nx/stargazers)
-- [ ] [Follow Nx on Twitter 🐦](https://twitter.com/nxdevtools)
-- [ ] [Join our Community Slack 🗣️](https://twitter.com/nxdevtools)
+- [ ] [Follow Nx on X 🐦](https://x.com/nxdevtools)
+- [ ] [Join our Community Slack 🗣️](https://go.nx.dev/community)
 - [ ] [Subscribe to our YT Channel 📺](https://youtube.com/@nxdevtools)
 - [ ] [Subscribe to our Newsletter ✉️](https://go.nrwl.io/nx-newsletter)
